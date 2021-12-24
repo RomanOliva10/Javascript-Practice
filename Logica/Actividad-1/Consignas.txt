@@ -1,0 +1,45 @@
+1- Realizar un script llamado Ejercicio1.js que declare una variable, se le asigne tu nombre 
+como valor y lo muestre por consola.
+
+2- Realizar un script llamado Ejercicio2.js que declare dos variables, se les asigne tu 
+nombre y apellido como valor y los muestre por consola.
+
+3- Realizar un script llamado Ejercicio3.js que muestre tu nombre y apellido con el 
+siguiente formato: “Mi nombre es ….. y mi apellido es ….”
+
+4- Realizar un script llamado Ejercicio4.js que sume declare dos variables, les asigne un 
+valor a cada una y las sume. El resultado se debe mostrar por consola con el siguiente 
+formato: “El resultado de la suma es: “
+
+5- Realizar un script llamado Ejercicio5.js que sume declare tres variables, les asigne un 
+valor a cada una y las reste. El resultado se debe mostrar por consola con el siguiente 
+formato: “El resultado de la resta es: “
+
+6- Realizar un script llamado Ejercicio6.js que solicite tu nombre por Promp y lo muestre 
+por consola.
+
+7- Realizar un script llamado Ejercicio7.js que solicite tu nombre y tu apellido por Promp y 
+lo muestre por consola con el siguiente formato: “Mi nombre es ….. y mi apellido es 
+….”.
+
+8- Realizar un script llamado Ejercicio8.js que solicite dos valores por Promp y muestre el 
+de mayor valor con el siguiente formato: “El mayor valor es: “
+
+9- Realizar un script llamado Ejercicio9.js que solicite dos valores por Promp y muestre el 
+de menor valor con el siguiente formato: “El menor valor es: “
+
+10- Realizar un script llamado Ejercicio10.js que solicite dos valores por Promp y muestre 
+el promedio de ambos con el siguiente formato: “El promedio entre …. Y ….. es: “
+11- Realizar un script que llamado Ejercicio11.js que declare una variable le asigne un valor 
+y lo sume 50 veces (Usar algún bucle).
+
+12- Realizar un script llamado Ejercicio12.js que declare una variable, le asigne un valor y
+solicite por Promp cuantas veces lo desea sumar. Luego mostrar dicha suma por 
+pantalla. (Usar algún bucle).
+
+13- Realizar un script llamado Ejercicio13.js que muestre los números pares del 1 al 20.
+
+14- Realizar un script llamado Ejercicio14.js que muestre los números impares del 1 al 20.
+
+15- Realizar un script llamado Ejercicio15.js, que solicite 3 valores por Promp, y los 
+muestre ordenados de menor a mayor.

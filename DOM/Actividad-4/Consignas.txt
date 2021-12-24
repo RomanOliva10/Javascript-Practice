@@ -1,0 +1,2 @@
+Crear un switch que al activar cambie el tema  Light / Dark
+Es decir que cambie el color base de la aplicación

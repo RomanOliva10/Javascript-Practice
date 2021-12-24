@@ -1,0 +1,29 @@
+Ej-1  cadena = "javascript"; dada la anterior cadena colocar la primera letra en mayúscula
+      output => Javascript
+
+
+
+
+Ej-2 cadena = "javascript";  dada la anterior cadena colocar la ultima letra en mayúscula
+    output => javascripT
+
+
+
+
+
+
+Ej-3 arr = ["foo", "bar", "baz", "qux", "origin"]
+     buscar en ele array el elemento baz y mostrarlo console
+     output =>  baz
+
+
+
+
+Ej-4 arr = ["foo", "bar", "baz", "qux", "origin"]
+     vaciar el arr
+     output => [ ]
+
+
+Ej-5  1 str = "origin"
+  eliminar las vocales del string
+  output => rgn
