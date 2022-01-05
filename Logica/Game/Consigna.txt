@@ -1,0 +1,29 @@
+Descripción del juego:
+
+Es un juego automático y por tumnos.
+Hay dos bandos, el personaje del usuario y 5 enemigos.
+El usuario define los atributos de su personaje, los demás se setean aleatoriamente.
+El juego se repite en bucle una cantidad aleatoria de veces o cuando uno de los dos
+bandos se queda sin personajes.
+Atacan una vez por bando, es decir, ataca el personaje del usuario, luego un
+enemigo, otra vez el usuario y así.
+El personaje del usuario ataca siempre al enemigo con más vida.
+Cada ataque se muestra por consola, seguido del estado de los personajes luego
+del ataque.
+Cada personaje tiene tres atributos: vida, ataque y defensa.
+
+Los rangos para los atributos del personaje del usuario son:
+
+	o - Vida (entre 1000 y 2000)
+
+	o Ataque (entre 100 y 200)
+
+	o Defensa ( entre 50 y 75)
+
+Los rangos para los atributos de los enemigos son:
+
+	o - Vida (entre 500 y 1000)
+
+	o Ataque (entre 0 y 100)
+
+	o Defensa (entre 0 y 50)
